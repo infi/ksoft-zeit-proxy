@@ -1,0 +1,25 @@
+{
+  "name": "ksoft-zeit-proxy",
+  "version": "0.0.1",
+  "description": "KSoft ZEIT Proxy",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "ksoft",
+    "zeit",
+    "proxy"
+  ],
+  "author": "Infi <ksoft-zeit-proxy@geist.ga> (https://geist.ga)",
+  "license": "BSL-1.0",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "make-fetch-happen": "^8.0.4"
+  }
+}
